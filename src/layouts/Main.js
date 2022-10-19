@@ -6,7 +6,6 @@ import NavMenu from '../Pages/Shared/NavMenu/NavMenu';
 const Main = () => {
     return (
         <div>
-            <NavMenu></NavMenu>
             <Header></Header>
             <Outlet></Outlet>
         </div>
