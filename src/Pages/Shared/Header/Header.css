@@ -1,0 +1,14 @@
+.header-container {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/20/164/15/booking-best-hotels-bangkok-tourism-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header-content {
+    background-color: #00000069;
+    min-height: 400px;
+}
+
+.hover_btn:hover {
+    color: #000000 !important;
+}
